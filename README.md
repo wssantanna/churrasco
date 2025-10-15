@@ -1,8 +1,6 @@
 # Churrasco
 
-## LISTA
-
-** Alimentos **
+## Alimentos
 
 1. contrafilé
 1. fraldinha 
